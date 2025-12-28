@@ -7,6 +7,8 @@ This project is a **React 19 microfrontend architecture** using **Module Federat
 
 The setup is intentionally minimal, fast, and deployment-friendly.
 
+This application runs locally.
+
 ---
 
 ## ✅ Tech Stack
